@@ -33,5 +33,5 @@ dalam mendeteksi kanker payudara menggunakan dataset
 - Matplotlib, Seaborn
 
 ## Kesimpulan
-Logistic Regression/KNN lebih unggul untuk dataset ini (hasil sesuai eksperimen). 
+Logistic Regression lebih unggul daripada KNN untuk dataset ini (hasil sesuai eksperimen). 
 Proyek ini bisa menjadi baseline untuk penelitian lebih lanjut di bidang *healthcare AI*.
